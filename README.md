@@ -23,6 +23,14 @@ $ python
 >>> exit()
 ```
 ---
+## ✍️ My Journey
+
+I'm a passionate full-stack developer with a strong background in Python and JavaScript.  
+I started my career with small web apps and now work on large-scale Django rest apps.
+
+When I'm not coding, you can find me reading about new frameworks or making advancements on new projects. 🌍
+
+
 ## 💻Languages and Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -42,6 +50,11 @@ $ python
 ![Celery](https://img.shields.io/badge/celery-%233B8739.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📂 Featured Projects
+[![Soulink](https://github-readme-stats.vercel.app/api/pin/?username=AkkaSingh19&repo=soulink&theme=tokyonight)](https://github.com/AkkaSingh19/soulink)  
+> Soulink — A full-stack social platform built with Django rest framework and tailwind css.  
+> Users can subscribe to the blog, share the posts, search for posts as well as comment their views. Powered by Redis and Celery for background tasks(sending mails).
+
 
 ## 🌐Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakansha-singh-9102b2251/) 
@@ -55,3 +68,5 @@ $ python
 
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkkaSingh19&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/AkkaSingh19/count.svg)
