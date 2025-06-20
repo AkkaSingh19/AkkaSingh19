@@ -51,7 +51,6 @@ $ python
 
 ## 📊 GitHub Stats
 ![AkkaSingh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkkaSingh19&show_icons=true&theme=tokyonight)
-![AkkaSingh19's streak](https://github-readme-streak-stats.herokuapp.com/?user=AkkaSingh19&theme=tokyonight&hide_border=true)
 
 
 ## 🧠 Top Languages
